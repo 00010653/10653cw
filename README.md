@@ -18,7 +18,7 @@ node app
 - pug
 
 #### Link to GitHUb repo
-https://github.com/10828-coder/to-do-app
+https://github.com/00010653/10653cw.git
 
 #### Link to web application
 https://warp-supreme-mule.glitch.me/
